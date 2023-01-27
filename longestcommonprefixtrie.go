@@ -40,3 +40,4 @@ func main() {
 	}
 	fmt.Println(trie.LCP())
 }
+// Beats 100 percent leet code solutions - Runtime of Oms.
